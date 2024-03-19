@@ -1,5 +1,5 @@
 #### 1 - Know the principles of Object Oriented programming (inheritance, encapsulation etc.)
-*- **Link**: OO_Principles.pdf
+- **Link**: OO_Principles.pdf
 - **Inheritance**: Ability of a class to inherit function implementation from another class.
     - *Benefit*: Software reusability.
         - Reuse code and effort already invested in writing and testing.
@@ -176,6 +176,7 @@
 
 #### 8 - Be able to create a class diagram and a statechart from requirements
 - **Link**: LiftControlCaseStudy.pdf,  LibraryExample.doc,  LibraryExample.pdf, ExceptionAndLightBulbClass.pdf
+  
 	- **Common Mistakes in Class Diagrams**:
 		- Not using proper notation for relationships (e.g., association, inheritance).
 		- Omitting important class candidates from the diagram.
@@ -206,6 +207,7 @@
 	
 #### 9 - Know what is tested in different stages of testing (unit, integration, system, acceptance, regression)
 - **Link**: VandV.pdf (Slide 9)
+  
     - **Unit Testing**:
         - Exercise a single simple component (e.g., procedure, class).
         - Focus on testing the smallest units of code in isolation.
@@ -229,6 +231,7 @@
 		
 #### 10 - Be able to create testcases with a JUnit framework
 - **Link**: ExceptionAndLightbulbClass.pdf
+
     - *Creating Test Cases with JUnit Framework*:
         - Ability to create test cases using the JUnit framework.
         - Test cases should include assert functions to verify expected outcomes.
@@ -243,6 +246,7 @@
 ---
 		
 #### 11 – Be able to create testcases according to boundary, statement and edge coverage criteria
+	
 - *Creating Test Cases According to Coverage Criteria*:
     - Ability to create test cases according to boundary, statement, and edge coverage criteria.
     - Focus on edge coverage, which is equivalent to branch coverage in this context.
